@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only">
   <info>
-    <title>IEEE (collapse)</title>
-    <title-short>IEEE collapse</title-short>
-    <id>http://www.zotero.org/styles/ieee-collapse</id>
-    <link href="http://www.zotero.org/styles/ieee-collapse" rel="self"/>
+    <title>IEEE Reference Guide version 11.29.2023</title>
+    <title-short>Institute of Electrical and Electronics Engineers</title-short>
+    <id>http://www.zotero.org/styles/ieee</id>
+    <link href="http://www.zotero.org/styles/ieee" rel="self"/>
     <link href="https://journals.ieeeauthorcenter.ieee.org/your-role-in-article-production/ieee-editorial-style-manual/" rel="documentation"/>
     <author>
       <name>Michael Berkowitz</name>
@@ -47,7 +47,7 @@
     <category citation-format="numeric"/>
     <category field="engineering"/>
     <category field="generic-base"/>
-    <summary>IEEE style as per the 2023 guidelines, with citation number collapsing.</summary>
+    <summary>IEEE style as per the 2023 guidelines.</summary>
     <updated>2024-03-27T11:41:27+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
